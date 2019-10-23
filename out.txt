@@ -1,0 +1,46 @@
+Three process are present with process id's 10 ,20 ,30
+The entered id is 10
+Enter 1 to continue 0 to exit
+The entered id is 20
+Enter 1 to continue 0 to exit
+The entered id is 20
+Enter 1 to continue 0 to exit
+The entered id is 20
+Enter 1 to continue 0 to exit
+The entered id is 10
+Enter 1 to continue 0 to exit
+The entered id is 30
+Enter 1 to continue 0 to exit
+The entered id is 30
+Enter 1 to continue 0 to exit
+process with entered id is not present
+
+-----------------------------
+PROCESS CREATION
+The process with process id 10 has following child processes
+101  102  
+The process with process id 20 has following child processes
+201  202  203  
+The process with process id 30 has following child processes
+301  302  
+
+-----------------------------
+PROCESS EXECUTION
+PROCESS 1
+CHILD COMPLETE
+CHILD COMPLETE
+
+PROCESS 2
+CHILD COMPLETE
+CHILD COMPLETE
+CHILD COMPLETE
+
+PROCESS 3
+CHILD COMPLETE
+CHILD COMPLETE
+
+-----------------------------
+PROCESS TERMINATION
+Process with pid 10 is terminated
+Process with pid 20 is terminated
+Process with pid 30 is terminated
